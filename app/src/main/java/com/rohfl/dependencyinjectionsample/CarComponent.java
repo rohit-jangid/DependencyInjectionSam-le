@@ -7,4 +7,6 @@ public interface CarComponent {
 
     Car getCar();
 
+    void injection(MainActivity mainActivity);
+
 }
